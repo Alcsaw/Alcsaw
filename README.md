@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a tech enthusiast who loves to code and solve problems.
 
-:computer:  &nbsp; I am currently working at **Compasso UOL** as a Data Engineer
+:computer:  &nbsp; I am currently working at **Compass.UOL** as a Data Engineer
 <br/> :blue_heart: &nbsp; I enjoy studying, from programming to philosofy, and I love a good deep conversation. Just pick a subject! :blush:
 <br/> :computer: &nbsp; I work with cloud computing, ELT processes and data cleanse... (AWS, Azure, Apache Spark, Python, SQL...)
 <br/> :rocket: &nbsp; I also play around with web dev for hobby (ReactJS, Node.js, React Native & Typescript)
